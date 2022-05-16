@@ -10,7 +10,7 @@ This is a Python script that can simply determine if a website is using WordPres
 You can run the scrapers as follows:
 
 ```bash
-  python run_scrapers.py
+  wordPress_site_detector.py
 ```
 
 
