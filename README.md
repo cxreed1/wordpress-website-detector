@@ -1,7 +1,8 @@
 
 # wordpress-website-detector
 
-This is a Python script that can simply determine if a website is using WordPress.
+🐍🕵️‍♂️ This Python script can easily determine if a website is powered by WordPress.s.
+
 ![Python](https://img.shields.io/pypi/pyversions/requests?style=flat-square) [![Requests Version](https://img.shields.io/badge/requests-2.31.0-brightgreen)](https://pypi.org/project/requests/)
 
 ## Prerequisites
